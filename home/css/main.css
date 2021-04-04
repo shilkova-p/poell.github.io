@@ -293,6 +293,20 @@ height: 300px;
     .button{
         margin-top: 90px;
     }
+
+    .feature {
+        padding: 10px 0px 10px 20px;
+    
+        margin-bottom: 65px;
+        margin-left: 1px;
+        width: 275px;
+        margin: 0 auto;
+
+    }
+
+    .services{
+        margin: 0 auto;
+    }
 } 
 
 @media screen and (max-width: 404px) {
